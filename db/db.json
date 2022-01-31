@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "title": "Go to the store",
+      "text": "Need to get various groceries such as:\n\n- Milk\n- Eggs\n- Cereal\n- Yogurts\n- Coffee",
+      "id": "1"
+    },
+    {
+      "title": "Go to the movies",
+      "text": "Let's go see the new Dune movie.\n\nIf we can't see it in theaters it may still be available to stream...",
+      "id": "2"
+    }
+  ]
+}
